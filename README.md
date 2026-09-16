@@ -1,2 +1,2 @@
-# Curso-DWEC-26-27
-Curso-DWEC-26/27
+# Repositorio Curso DWEC 2026_2027
+> Autor: Daniel VB

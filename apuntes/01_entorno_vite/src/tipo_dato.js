@@ -55,7 +55,7 @@
     
     if(isNaN(celcius)){
 
-      return "es un numero "
+      return "no es un un numero valido  "
     }
     if (celcius < -273){
 
@@ -64,6 +64,6 @@
   
       let kelvin = celcius + 273.15
       return Number(kelvin.toFixed(2))   
-  }       
+  }        
     
     
